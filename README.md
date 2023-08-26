@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pling.com/img/00/00/59/97/06/1583920/7e6b3b644037890800f7fe86325d3ba9377c55696c019e44cf01a1355928fd3b5db6.jpg)](https://rishavchanda.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557852_1280.jpg)](https://rishavchanda.io)
 <h1 align="center">call me chryzle!</h1>
 <h3 align="center">im a computer science student 👩🏻‍💻 who had troubles with focusing, remembering, and commiting to a project or activities; might be an undiagnosed adhd or maybe lack of sleep.. ANYWAYS the progress might be slow but im willing to learn</h3>
 
