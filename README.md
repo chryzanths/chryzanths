@@ -1,4 +1,4 @@
-### im a computer science student 
+### im a computer science student 👩🏻‍💻
   -who had troubles with focusing, remembering, and commiting to a project or activities; might be an undiagnosed adhd or maybe lack of sleep.. 
   ANYWAYS the progress might be slow but im willing to learn
 
