@@ -1,4 +1,6 @@
-### Hi there 👋
+### im a computer science student 
+  -who had troubles with focusing, remembering, and commiting to a project or activities; might be an undiagnosed adhd or maybe lack of sleep.. 
+  ANYWAYS the progress might be slow but im willing to learn
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Ccpp" alt="roadmap.sh"/></a>
 
