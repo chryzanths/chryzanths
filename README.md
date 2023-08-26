@@ -2,7 +2,7 @@
   -who had troubles with focusing, remembering, and commiting to a project or activities; might be an undiagnosed adhd or maybe lack of sleep.. 
   ANYWAYS the progress might be slow but im willing to learn
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Ccpp" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Ccpp%2Ccomputer-science%2Cpython" alt="roadmap.sh"/></a>
 
 <!--
 **chryzanths/chryzanths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
