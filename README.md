@@ -4,7 +4,7 @@
 
 <img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202308/7065_40V4j8uF.png">
 
-- my projects: [https://drive.google.com/drive/folders/1C2FPle5ffOMZkUCE9m6ol-zISEq4zyqQ?usp=sharing](https://drive.google.com/drive/folders/1C2FPle5ffOMZkUCE9m6ol-zISEq4zyqQ?usp=sharing)
+- my projects: [chryzanths.github.io](chryzanths.github.io)
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Ccpp%2Ccomputer-science%2Cpython" alt="roadmap.sh"/></a>
 
