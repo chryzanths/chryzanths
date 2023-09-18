@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557852_1280.jpg)](https://rishavchanda.io)
 <h1 align="center">call me chryzle!</h1>
-<h3 align="center">im a computer science student 👩🏻‍💻 who had troubles with focusing and remembering; might be an undiagnosed adhd or maybe lack of sleep.. ANYWAYS the progress might be slow but im willing to learn</h3>
+<h3 align="center">im a computer science student 👩🏻‍💻</h3>
 
 <img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202308/7065_40V4j8uF.png">
 
