@@ -2,7 +2,7 @@
 <h1 align="center">call me chryzle!</h1>
 <h3 align="center">im a computer science student 👩🏻‍💻</h3>
 
-<img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202308/7065_40V4j8uF.png">
+<img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202309/7065_KJTHlZ5C.png">
 
 
 - my portfolio: [chryzanths.github.io](https://chryzanths.github.io/)
