@@ -34,8 +34,4 @@ https://chryzanths.github.io
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chryzanths/chryzanths/output/snake.svg" alt="Snake animation" />
-
 
