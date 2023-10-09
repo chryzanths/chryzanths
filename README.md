@@ -3,6 +3,21 @@
 <h1 align="center">call me Chryzle!</h1>
 <h3 align="center">im a computer science student 👩🏻‍💻</h3>
 
+<div align="center">
+  
+  <a href="mailto:chryzlamualla@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=chryzlamualla@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/chryzle-amualla-25aa49272/">
+    <img src="https://img.shields.io/static/v1?message=Chryzle Amualla&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  
+</div>
+
+<h3 align="left"></h3>
+
+
 <img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202309/7065_KJTHlZ5C.png">
 
 
@@ -33,5 +48,4 @@ https://chryzanths.github.io
 </div>
 
 ###
-
 
