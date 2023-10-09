@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557852_1280.jpg)](https://rishavchanda.io)
+
+![CHRYZLE AMUALLA](https://github.com/chryzanths/chryzanths/assets/104879763/4d34155b-326e-483e-9806-5892473c475a)
 <h1 align="center">call me Chryzle!</h1>
 <h3 align="center">im a computer science student 👩🏻‍💻</h3>
 
