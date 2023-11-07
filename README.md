@@ -24,7 +24,28 @@
 <h3 align="left">My Portfolio:</h3>
 https://chryzanths.github.io
 <h3 align="left">My Certifications:</h3>
-  - Business Analytics with Excel (Simplilearn)
+
+  |Certifications| Date |
+| ------- | --- |
+| Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
+| The Hour of Code (CODE.ORG) | 25 ‎May ‎2021 |
+
+<h3 align="left">My Seminars:</h3>
+
+|Seminar Certificates| Date |
+| ------- | --- |
+| Defender's Guide to Successful Cybersecurity Career | 25 Mar 2022 |
+| Database Management System: What it is and Why it matters | 25 Mar 2022 |
+| Introduction to Web Development | 25 Mar 2022 |
+| Careers in IT | 01 Apr 2022 |
+| Microsoft Power Apps | 01 Apr 2022 |
+| Robotic Process Automation | 01 Apr 2022 |
+| Data Protection | 08 Apr 2022 |
+| Ethical Hacking - Brute Force Attack | 08 Apr 2022 |
+| Process and Flows of an IT Project | 08 Apr 2022 |
+| IT Industry Landscape and Trends | 12 Apr 2022 |
+| Software Management | 12 Apr 2022 |
+
 
 <h3 align="left"></h3>
 
