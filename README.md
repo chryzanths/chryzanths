@@ -23,6 +23,14 @@
 
 <h3 align="left">My Portfolio:</h3>
 https://chryzanths.github.io
+
+
+
+<h3 align="left"></h3>
+
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Cpython%2Ccomputer-science%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
+
 <h3 align="left">My Certifications:</h3>
 
   |Certifications| Date |
@@ -45,12 +53,6 @@ https://chryzanths.github.io
 | Process and Flows of an IT Project | 08 Apr 2022 |
 | IT Industry Landscape and Trends | 12 Apr 2022 |
 | Software Management | 12 Apr 2022 |
-
-
-<h3 align="left"></h3>
-
-
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Cpython%2Ccomputer-science%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
