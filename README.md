@@ -35,8 +35,8 @@ https://chryzanths.github.io
 
   |Certifications| Date |
 | ------- | --- |
-| CISCO Operating Systems Basics | - |
-| CISCO Introduction to Data Science | - |
+| Introduction to SQL | - |
+| Intro to Programming (Python) | 09 Nov 2023 |
 | CISCO Data Analytics Essentials | - |
 | Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
 | The Hour of Code (CODE.ORG) | 25 ‎May ‎2021 |
