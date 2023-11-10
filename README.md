@@ -35,7 +35,8 @@ https://chryzanths.github.io
 
   |Certifications| Date |
 | ------- | --- |
-| DataCamp Introduction to SQL | - |
+| DataCamp Introduction to Git | - |
+| DataCamp Introduction to SQL | 10 Nov 2023 |
 | Intro to Programming (Python) | 09 Nov 2023 |
 | CISCO Data Analytics Essentials | - |
 | Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
