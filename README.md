@@ -35,7 +35,7 @@ https://chryzanths.github.io
 
   |Certifications| Date |
 | ------- | --- |
-| DataCamp Introduction to Relational Databases in SQL | - |
+| DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
 | Intro to Programming (Python) | 09 Nov 2023 |
