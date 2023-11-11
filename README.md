@@ -1,7 +1,7 @@
 
 ![CHRYZLE AMUALLA](https://github.com/chryzanths/chryzanths/assets/104879763/4d34155b-326e-483e-9806-5892473c475a)
-<h1 align="center">call me Chryzle!</h1>
-<h3 align="center">im a computer science student 👩🏻‍💻</h3>
+<h1 align="center">Chryzle Amualla</h1>
+<h3 align="center">A computer science major 👩🏻‍💻</h3>
 
 <div align="center">
   
