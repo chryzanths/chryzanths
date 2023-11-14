@@ -36,6 +36,7 @@
 
   |Certifications| Date |
 | ------- | --- |
+| ORACLE Java Explorer | - |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
