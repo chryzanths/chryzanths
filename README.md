@@ -36,7 +36,7 @@
 
   |Certifications| Date |
 | ------- | --- |
-| ORACLE Java Explorer | - |
+| Oracle Cloud Data Management Foundations Associate | - |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
@@ -61,6 +61,11 @@
 | Process and Flows of an IT Project | 08 Apr 2022 |
 | IT Industry Landscape and Trends | 12 Apr 2022 |
 | Software Management | 12 Apr 2022 |
+
+|Oracle Badges| Date |
+| ------- | --- |
+| Java Explorer | - |
+| Project Management Explorer | 2- |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
