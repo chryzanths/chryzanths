@@ -46,6 +46,11 @@
 | Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
 | The Hour of Code (CODE.ORG) | 25 ‎May ‎2021 |
 
+|Oracle Badges| Date |
+| ------- | --- |
+| Java Explorer | - |
+| Project Management Explorer | - |
+
 <h3 align="left">My Seminars:</h3>
 
 |Seminar Certificates| Date |
@@ -62,10 +67,6 @@
 | IT Industry Landscape and Trends | 12 Apr 2022 |
 | Software Management | 12 Apr 2022 |
 
-|Oracle Badges| Date |
-| ------- | --- |
-| Java Explorer | - |
-| Project Management Explorer | 2- |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
