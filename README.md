@@ -22,7 +22,8 @@
 
 
 <h3 align="left">My Portfolio:</h3>
-https://chryzanths.github.io
+
+### [**See Chryzle's Portfolio**](https://chryzanths.github.io/)
 
 
 
