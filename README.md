@@ -7,11 +7,11 @@
 <div align="center">
   
   <a href="mailto:chryzlamualla@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=chryzlamualla@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=chryzlamualla@gmail.com&logo=gmail&label=&color=FF94C5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   
   <a href="https://www.linkedin.com/in/chryzle-amualla-25aa49272/">
-    <img src="https://img.shields.io/static/v1?message=Chryzle Amualla&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=Chryzle Amualla&logo=linkedin&label=&color=BE96FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
 </div>
