@@ -43,14 +43,14 @@
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
 | Intro to Programming (Python) | 09 Nov 2023 |
-| CISCO Data Analytics Essentials | - |
 | Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
 | The Hour of Code (CODE.ORG) | 25 ‎May ‎2021 |
 
-|Oracle Badges| Date |
+|Badges| Date |
 | ------- | --- |
-| Java Explorer | - |
-| Project Management Explorer | - |
+| CISCO Data Analytics Essentials | 01 Jan 2024 |
+| ORACLE Java Explorer | - |
+| ORACLE Project Management Explorer | - |
 
 <h3 align="left">My Seminars:</h3>
 
