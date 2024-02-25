@@ -19,7 +19,7 @@
 <h3 align="left"></h3>
 
 
-<img align ="right" alt="chryzle picrew" width="400" src="https://cdn.picrew.me/shareImg/org/202401/2177347_tdJjswzt.png">
+<img align ="right" alt="chryzle picrew" width="400" src="https://github.com/chryzanths/chryzanths/blob/main/download20240200191151.png">
 
 
 <h3 align="left">My Portfolio:</h3>
