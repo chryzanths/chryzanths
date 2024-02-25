@@ -1,5 +1,5 @@
+![CHRYZLE AMUALLA](https://github.com/chryzanths/chryzanths/assets/104879763/9468b6b7-02c7-4d63-aba6-71cf5e37ab24)
 
-![CHRYZLE AMUALLA (2)](https://github.com/chryzanths/chryzanths/assets/104879763/28ece2da-87a2-43d0-bd7c-830bda2ad9a9)
 
 <h1 align="center">Chryzle Amualla</h1>
 <h3 align="center">A computer science major 👩🏻‍💻</h3>
