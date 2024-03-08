@@ -35,9 +35,11 @@
 
 <h3 align="left">My Certifications:</h3>
 
-  |Certifications| Date |
+  |Certifications and Courses| Date |
 | ------- | --- |
 | Oracle Cloud Data Management Foundations Associate | - |
+| Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
+| Accenture Tech Visions 2024: Human by Design | - |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
