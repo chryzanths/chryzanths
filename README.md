@@ -39,7 +39,6 @@
 | ------- | --- |
 | Oracle Cloud Data Management Foundations Associate | - |
 | Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
-| Accenture Tech Visions 2024: Human by Design | - |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
@@ -58,6 +57,7 @@
 
 |Seminar Certificates| Date |
 | ------- | --- |
+| Accenture Tech Visions 2024: Human by Design | - |
 | Defender's Guide to Successful Cybersecurity Career | 25 Mar 2022 |
 | Database Management System: What it is and Why it matters | 25 Mar 2022 |
 | Introduction to Web Development | 25 Mar 2022 |
