@@ -65,7 +65,7 @@
 
 |Seminars| Date |
 | ------- | --- |
-| Capture The Flag and Cybersecurity (Introduction) | - |
+| Capture The Flag and Cybersecurity (Introduction) | 01 Apr 2024 |
 | Accenture Tech Visions 2024: Human by Design | - |
 | Defender's Guide to Successful Cybersecurity Career | 25 Mar 2022 |
 | Database Management System: What it is and Why it matters | 25 Mar 2022 |
