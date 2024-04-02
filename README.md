@@ -39,6 +39,14 @@
 | ------- | --- |
 | Oracle Cloud Data Management Foundations Associate | - |
 | Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
+| Capture The Flag Workshop: Linux Essentials | 02 Apr 2024 |
+| Capture The Flag Workshop: Python 101 | 02 Apr 2024 |
+| Capture The Flag Workshop: Computing Refresher | 02 Apr 2024 |
+| Capture The Flag Workshop: Cryptography Foundations | - |
+| Capture The Flag Workshop: OSINT | - |
+| Capture The Flag Workshop: Steganography Methodologies | - |
+| Capture The Flag Workshop: Forensics Basics | - |
+| Capture The Flag Workshop: Web Exploitation | - |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
@@ -55,8 +63,9 @@
 
 <h3 align="left">My Seminars:</h3>
 
-|Seminar Certificates| Date |
+|Seminars| Date |
 | ------- | --- |
+| Capture The Flag and Cybersecurity (Introduction) | - |
 | Accenture Tech Visions 2024: Human by Design | - |
 | Defender's Guide to Successful Cybersecurity Career | 25 Mar 2022 |
 | Database Management System: What it is and Why it matters | 25 Mar 2022 |
