@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Chryzle Amualla</h1>
-<h3 align="center">A computer science major 👩🏻‍💻</h3>
+<h3 align="center">A Computer Science student 👩🏻‍💻 and a Committee Officer Association of Computer Science Students Organization</h3>
 
 <div align="center">
   
