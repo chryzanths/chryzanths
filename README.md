@@ -48,8 +48,8 @@ ABOUT ME:
 | Capture The Flag Workshop: Linux Essentials | 02 Apr 2024 |
 | Capture The Flag Workshop: Python 101 | 02 Apr 2024 |
 | Capture The Flag Workshop: Computing Refresher | 02 Apr 2024 |
-| Capture The Flag Workshop: Cryptography Foundations | - |
-| Capture The Flag Workshop: OSINT | - |
+| Capture The Flag Workshop: Cryptography Foundations | 03 Apr 2024 |
+| Capture The Flag Workshop: OSINT | 03 Apr 2024 |
 | Capture The Flag Workshop: Steganography Methodologies | - |
 | Capture The Flag Workshop: Forensics Basics | - |
 | Capture The Flag Workshop: Web Exploitation | - |
