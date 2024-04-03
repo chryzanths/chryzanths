@@ -5,6 +5,7 @@
 
 ABOUT ME:
 - A Computer Science student 👩🏻‍💻
+- Aspires to be a Software Developer in the future
 - Committee Officer of Association of Computer Science Students Organization
 
 <h3 align="left"></h3>
