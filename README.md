@@ -40,7 +40,7 @@ ABOUT ME:
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e960b8b128dce3cb78022a?variant=dark&roadmaps=java%2Cpython%2Ccomputer-science%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
 
-<h3 align="left">My Certifications:</h3>
+<h3 align="left">My Certifications and Courses:</h3>
 
   |Certifications and Courses| Date |
 | ------- | --- |
