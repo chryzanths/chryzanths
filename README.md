@@ -29,8 +29,9 @@ ABOUT ME:
 
 <h3 align="left">My Portfolio:</h3>
 
-### [**See Chryzle's Portfolio**](https://chryzanths.github.io/)
-
++ [MY WEB PORTFOLIO](https://chryzanths.github.io/)
++ [Exam Generator Website utilizing GPT-3 API](https://github.com/chryzanths/Exam-Generator-API)
++ [JAVA Basic Code Compiler](https://github.com/chryzanths/Mini-Compiler)
 
 
 <h3 align="left"></h3>
@@ -84,9 +85,25 @@ ABOUT ME:
 | IT Industry Landscape and Trends | 12 Apr 2022 |
 | Software Management | 12 Apr 2022 |
 
+###
+
 <h3 align="left">Power BI Projects:</h3>
 
++ [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiOGNjYjZiNjgtNmI3YS00YjgzLWFmYTgtY2Q2NjRmNDljZmNlIiwidCI6IjgxODQzMTM3LTc3MWEtNDNjYy1iOGYyLWFhYmI4NTlkYjc1ZCIsImMiOjEwfQ%3D%3D)
++ [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiN2U2YjBjOWUtODFlYy00MWRjLTgyODYtN2JlMDAwZmVmYjAwIiwidCI6IjgxODQzMTM3LTc3MWEtNDNjYy1iOGYyLWFhYmI4NTlkYjc1ZCIsImMiOjEwfQ%3D%3D)
+
+###
+
 <h3 align="left">Software Design Patterns:</h3>
+
++ [Strategy Pattern](https://github.com/chryzanths/StrategyPattern)
++ [Command Pattern](https://github.com/chryzanths/CommandPattern)
++ [Visitor Pattern](https://github.com/chryzanths/visitorPattern)
++ [Adapter Pattern](https://github.com/chryzanths/AdapterPattern)
++ [Builder Pattern](https://github.com/chryzanths/BuilderPattern)
+  
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -126,7 +143,7 @@ ABOUT ME:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
@@ -141,6 +158,19 @@ ABOUT ME:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+
+  <h3 align="left">Database Management System:</h3>
+
++ IBM DB2
+
+###
+
+  <h3 align="left">Data Visualization Tools:</h3>
+
++ Microsoft PowerBI Desktop
+
++ Microsoft Excel
+
 </div>
 
 ###
