@@ -25,8 +25,7 @@ ABOUT ME:
 
 <h3 align="left"></h3>
 
-
-<img align ="right" alt="chryzle picrew" width="400" src="https://github.com/chryzanths/chryzanths/blob/main/download20240200191151.png">
+<img align ="right" alt="chryzle picrew" width="400" src="">
 
 
 <h3 align="left">My Portfolio:</h3>
