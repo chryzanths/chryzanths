@@ -24,13 +24,14 @@ ABOUT ME:
 
 <h3 align="left"></h3>
 
-
+<img align ="right" alt="chryzle picrew" width="400" src="https://github.com/chryzanths/chryzanths/blob/main/download20240200191151.png">
 
 <h3 align="left">My Portfolio:</h3>
 
 + [MY WEB PORTFOLIO](https://chryzanths.github.io/)
 + [Exam Generator Website utilizing GPT-3 API](https://github.com/chryzanths/Exam-Generator-API)
 + [JAVA Basic Code Compiler](https://github.com/chryzanths/Mini-Compiler)
+
 
 
 <h3 align="left"></h3>
