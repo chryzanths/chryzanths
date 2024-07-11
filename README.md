@@ -1,4 +1,4 @@
-![CHRYZLE AMUALLA](https://github.com/chryzanths/chryzanths/assets/104879763/9468b6b7-02c7-4d63-aba6-71cf5e37ab24)
+![Copy of CHRYZLE AMUALLA](https://github.com/chryzanths/chryzanths/assets/104879763/89c006d3-c999-43ac-b171-d968d83a0657)
 
 
 <h1 align="center">Chryzle Amualla</h1>
