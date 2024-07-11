@@ -25,7 +25,6 @@ ABOUT ME:
 
 <h3 align="left"></h3>
 
-<img align ="right" alt="chryzle picrew" width="400" src="">
 
 
 <h3 align="left">My Portfolio:</h3>
