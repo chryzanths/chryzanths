@@ -30,7 +30,7 @@ ABOUT ME:
 <h3 align="left">My Portfolio:</h3>
 
 + [MY WEB PORTFOLIO](https://chryzanths.github.io/)
-+ [Exam Generator Website utilizing GPT-3 API](https://github.com/chryzanths/Exam-Generator-API)
++ [Exam Generator Website utilizing GPT-3.5 API](https://github.com/chryzanths/Exam-Generator-API)
 + [JAVA Basic Code Compiler](https://github.com/chryzanths/Mini-Compiler)
 
 
@@ -51,9 +51,9 @@ ABOUT ME:
 | Capture The Flag Workshop: Computing Refresher | 02 Apr 2024 |
 | Capture The Flag Workshop: Cryptography Foundations | 03 Apr 2024 |
 | Capture The Flag Workshop: Open-Source Intelligence (OSINT) | 03 Apr 2024 |
-| Capture The Flag Workshop: Steganography Methodologies | - |
-| Capture The Flag Workshop: Forensics Basics | - |
-| Capture The Flag Workshop: Web Exploitation | - |
+| Capture The Flag Workshop: Steganography Methodologies | 04 Apr 2024 |
+| Capture The Flag Workshop: Forensics Basics | 04 Apr 2024 |
+| Capture The Flag Workshop: Web Exploitation | 05 Apr 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
