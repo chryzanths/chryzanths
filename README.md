@@ -37,7 +37,7 @@ ABOUT ME:
 ###
 <h3 align="left">My Machine Learning Projects:</h3>
 
-+ [Mango Leaf Disease Detection using YOLOv8](https://github.com/chryzanths/Mango-Leaf-Disease-Detection-YOLOv8/tree/main](https://github.com/chryzanths/Mango-Leaf-Disease-Detection-YOLOv8))
++ [Mango Leaf Disease Detection using YOLOv8](https://github.com/chryzanths/Mango-Leaf-Disease-Detection-YOLOv8)
 
 ###
 
