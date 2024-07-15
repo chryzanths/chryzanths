@@ -35,8 +35,11 @@ ABOUT ME:
 + [AIRSEND Messaging App: UI/UX](https://www.figma.com/proto/CggXyDiuWQAT7YhhIgbMQj/AIRSEND-(Copy)?t=lRh3ySKHQkGsuiGP-1)
 
 ###
+<h3 align="left">My Machine Learning Projects:</h3>
 
++ [Mango Leaf Disease Detection using YOLOv8](https://github.com/chryzanths/Mango-Leaf-Disease-Detection-YOLOv8/tree/main](https://github.com/chryzanths/Mango-Leaf-Disease-Detection-YOLOv8))
 
+###
 
 <h3 align="left"></h3>
 
