@@ -5,7 +5,8 @@
 
 ABOUT ME:
 - A Computer Science student 👩🏻‍💻
-- Committee Officer of Association of Computer Science Students Organization
+- (Former) SR Secretary of Association of Computer Science Students Organization
+- YB Chairman of ACSS
 
 <h3 align="left"></h3>
 
