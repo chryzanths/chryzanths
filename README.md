@@ -53,14 +53,7 @@ ABOUT ME:
 | ------- | --- |
 | Oracle Cloud Data Management Foundations Associate | - |
 | Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
-| Capture The Flag Workshop: Linux Essentials | 02 Apr 2024 |
-| Capture The Flag Workshop: Python 101 | 02 Apr 2024 |
-| Capture The Flag Workshop: Computing Refresher | 02 Apr 2024 |
-| Capture The Flag Workshop: Cryptography Foundations | 03 Apr 2024 |
-| Capture The Flag Workshop: Open-Source Intelligence (OSINT) | 03 Apr 2024 |
-| Capture The Flag Workshop: Steganography Methodologies | 04 Apr 2024 |
-| Capture The Flag Workshop: Forensics Basics | 04 Apr 2024 |
-| Capture The Flag Workshop: Web Exploitation | 05 Apr 2024 |
+| Capture The Flag Workshop: Cybersecurity Essentials | 02-05 Apr 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
