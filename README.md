@@ -53,7 +53,7 @@ ABOUT ME:
 | ------- | --- |
 | Oracle Cloud Data Management Foundations Associate | - |
 | Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
-| CTF Workshop: Cybersecurity Essentials (Computing Refresher · Cryptography Foundations · Forensics Basics · Linux Essentials · Open-Source Intelligence · Python · Web Exploitation · Steganography | 02-05 Apr 2024 |
+| CTF Workshop: Cybersecurity Essentials | 02-05 Apr 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
