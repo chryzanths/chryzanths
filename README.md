@@ -51,6 +51,14 @@ ABOUT ME:
 
   |Certifications and Courses| Date |
 | ------- | --- |
+| Project Management | Nov 2024 |
+| Introduction to Web Designing | Nov 2024 |
+| Introduction to Design Thinking | Nov 2024 |
+| UI / UX for Beginners | Nov 2024 |
+| Data Visualization With Power BI | Nov 2024 |
+| Data Visualization using Python | Nov 2024 |
+| Python for Machine Learning | Nov 2024 |
+| Data Science Foundations | Nov 2024 |
 | Oracle Cloud Data Management Foundations Associate | - |
 | Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
 | CTF Workshop: Cybersecurity Essentials | 02-05 Apr 2024 |
