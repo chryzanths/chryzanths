@@ -4,9 +4,10 @@
 <h1 align="center">Chryzle Amualla</h1>
 
 ABOUT ME:
-- A Computer Science student 👩🏻‍💻
-- (Former) SR Secretary of Association of Computer Science Students Organization
-- YB Chairman of ACSS
+- Digital Integrations Platform Support Associate at Inchcape Digital / Inchcape PLC
+- A Computer Science major 👩🏻‍💻
+- (Former) YB Chairman and SR Secretary of Association of Computer Science Students Organization
+
 
 <h3 align="left"></h3>
 
@@ -17,10 +18,10 @@ ABOUT ME:
     <img src="https://img.shields.io/static/v1?message=chryzlamualla@gmail.com&logo=gmail&label=&color=FF94C5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
-  
   <a href="https://www.linkedin.com/in/chryzleamualla/">
-    <img src="https://img.shields.io/static/v1?message=Chryzle Amualla&logo=linkedin&label=&color=BE96FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BE96FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linked in" />
   </a>
+ 
   
 </div>
 
@@ -50,50 +51,38 @@ ABOUT ME:
 
 <h3 align="left">My Certifications and Courses:</h3>
 
-  |Certifications and Courses| Date |
+  |Certifications and Courses | Date | 
 | ------- | --- |
-| Project Management | Nov 2024 |
-| Introduction to Web Designing | Nov 2024 |
-| Introduction to Design Thinking | Nov 2024 |
-| UI / UX for Beginners | Nov 2024 |
-| Data Visualization With Power BI | Nov 2024 |
-| Data Visualization using Python | Nov 2024 |
-| Python for Machine Learning | Nov 2024 |
-| Data Science Foundations | Nov 2024 |
-| Oracle Cloud Data Management Foundations Associate | - |
-| Open Source Models with Hugging Face (LLM, NLP, and Image Processing) | - |
-| CTF Workshop: Cybersecurity Essentials | 02-05 Apr 2024 |
+| UDEMY Excel for Beginners | Apr 2025 |
+| CISCO Data Analytics Essentials | 01 Jan 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
-| DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
-| Intro to Programming (Python) | 09 Nov 2023 |
-| Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |
-| The Hour of Code (CODE.ORG) | 25 ‎May ‎2021 |
+| Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |21 |
 
-|Badges| Date |
+
+<h3 align="left">My Training:</h3>
+
+  |Trainings| Date |
 | ------- | --- |
-| CISCO Data Analytics Essentials | 01 Jan 2024 |
-| ORACLE Java Explorer | - |
-| ORACLE Project Management Explorer | - |
+| Philippine Data Privacy Act | Apr 2025 |
+| UK General Data Protection Regulation | Apr 2025 |
+| Personal Data Breach Training | Apr 2025 |
+| Password Management | Apr 2025 |
+| Safer Web Browsing | Apr 2025 |
+| Workplace Security in Action | Apr 2025 |
+
 
 <h3 align="left">My Seminars:</h3>
 
 |Seminars| Date |
 | ------- | --- |
-| Capture The Flag and Cybersecurity (Introduction) | 01 Apr 2024 |
-| Accenture Tech Visions 2024: Human by Design | 13 Mar 2024 |
-| Defender's Guide to Successful Cybersecurity Career | 25 Mar 2022 |
-| Database Management System: What it is and Why it matters | 25 Mar 2022 |
-| Introduction to Web Development | 25 Mar 2022 |
+| IT Industry Landscape and Trends | 12 Apr 2022 |
 | Careers in IT | 01 Apr 2022 |
 | Microsoft Power Apps | 01 Apr 2022 |
 | Robotic Process Automation | 01 Apr 2022 |
 | Data Protection | 08 Apr 2022 |
-| Ethical Hacking - Brute Force Attack | 08 Apr 2022 |
 | Process and Flows of an IT Project | 08 Apr 2022 |
-| IT Industry Landscape and Trends | 12 Apr 2022 |
-| Software Management | 12 Apr 2022 |
 
 ###
 
@@ -105,24 +94,6 @@ ABOUT ME:
 
 ###
 
-<h3 align="left">Software Design Patterns:</h3>
-
-+ [Strategy Pattern](https://github.com/chryzanths/StrategyPattern)
-+ [Command Pattern](https://github.com/chryzanths/CommandPattern)
-+ [Visitor Pattern](https://github.com/chryzanths/visitorPattern)
-+ [Adapter Pattern](https://github.com/chryzanths/AdapterPattern)
-+ [Builder Pattern](https://github.com/chryzanths/BuilderPattern)
-  
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19029427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19029427" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chryzanths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chryzanths" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chryzanths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chryzanths" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 
 <div align="left">
@@ -132,24 +103,19 @@ ABOUT ME:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
-</div>
 
 ###
 
 <h3 align="left">Dev Tools:</h3>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -158,31 +124,9 @@ ABOUT ME:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
 
-  <h3 align="left">Database Management System:</h3>
-
-+ IBM DB2
-
-###
-
-  <h3 align="left">Data Visualization Tools:</h3>
-
-+ Microsoft PowerBI Desktop
-
-+ Microsoft Excel
-
-</div>
 
 ###
 
