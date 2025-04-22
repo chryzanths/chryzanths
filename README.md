@@ -16,8 +16,9 @@ ABOUT ME:
   <a href="mailto:chryzlamualla@gmail.com">
     <img src="https://img.shields.io/static/v1?message=chryzlamualla@gmail.com&logo=gmail&label=&color=FF94C5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
   
-  <a href="https://www.linkedin.com/in/chryzle-amualla-25aa49272/">
+  <a href="https://www.linkedin.com/in/chryzleamualla/">
     <img src="https://img.shields.io/static/v1?message=Chryzle Amualla&logo=linkedin&label=&color=BE96FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
