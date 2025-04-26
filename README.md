@@ -61,7 +61,7 @@ ABOUT ME:
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
-| Business Analytics with Excel (Simplilearn) | 08 Sep 2023 |21 |
+| Business Analytics with Excel | 08 Sep 2023 |21 |
 
 
 <h3 align="left">My Training:</h3>
