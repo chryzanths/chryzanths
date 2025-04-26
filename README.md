@@ -53,6 +53,7 @@ ABOUT ME:
 
   |Certifications and Courses | Date | 
 | ------- | --- |
+| UDEMY Unlocking the Power of API Management with Google Apigee | Apr 2025 |
 | UDEMY Excel for Beginners | Apr 2025 |
 | Project Management | Nov 2024 |
 | Introduction to Design Thinking | Nov 2024 |
