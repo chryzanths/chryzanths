@@ -61,6 +61,7 @@ ABOUT ME:
 | Python for Machine Learning | Nov 2024 |
 | CISCO Data Analytics Essentials | 01 Jan 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
+| DataCamp Introduction to Relational Databases in SQL | 11 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
 | Intro to Programming (Python) | 09 Nov 2023 |
