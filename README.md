@@ -54,6 +54,9 @@ ABOUT ME:
   |Certifications and Courses | Date | 
 | ------- | --- |
 | UDEMY Excel for Beginners | Apr 2025 |
+| Project Management | Nov 2024 |
+| Introduction to Design Thinking | Nov 2024 |
+| UI / UX for Beginners | Nov 2024 |
 | CISCO Data Analytics Essentials | 01 Jan 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
