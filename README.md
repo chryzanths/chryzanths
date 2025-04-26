@@ -58,11 +58,13 @@ ABOUT ME:
 | Project Management | Nov 2024 |
 | Introduction to Design Thinking | Nov 2024 |
 | UI / UX for Beginners | Nov 2024 |
+| Python for Machine Learning | Nov 2024 |
 | CISCO Data Analytics Essentials | 01 Jan 2024 |
 | DataCamp GitHub Concepts | 14 Nov 2023 |
 | DataCamp Introduction to Git | 11 Nov 2023 |
 | DataCamp Introduction to SQL | 10 Nov 2023 |
-| Business Analytics with Excel | 08 Sep 2023 |21 |
+| Intro to Programming (Python) | 09 Nov 2023 |
+| Business Analytics with Excel | 08 Sep 2023 |
 
 
 <h3 align="left">My Training:</h3>
